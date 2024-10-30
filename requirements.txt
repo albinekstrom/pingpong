@@ -1,0 +1,7 @@
+slack_bolt
+slack_sdk
+schedule
+psycopg2-binary
+gunicorn
+python-dotenv
+
